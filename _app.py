@@ -34,6 +34,10 @@ set_pairs = [
         ["I am fine, thank you! How can i help you?",]
 
     ],
+    [
+        r"how old are you ?",
+        ["Sorry I cannot tell you my age"]
+    ],
 
     [
 
