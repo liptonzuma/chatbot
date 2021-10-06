@@ -36,7 +36,13 @@ set_pairs = [
     ],
     [
         r"how old are you ?",
+
         ["Sorry I cannot tell you my age"]
+    ],
+    [
+        r"how're you doing ? ",
+
+        ["I am doing great and you ?"]
     ],
 
     [
@@ -86,6 +92,12 @@ set_pairs = [
         ["Iam happy to help", "No problem, you're welcome",]
 
     ],
+
+    [
+        r"Why ?",
+
+        [ "It is confidential "]
+    ]
 
     [
 
